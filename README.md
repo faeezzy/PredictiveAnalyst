@@ -78,7 +78,7 @@ train_FD001.csv
 
 **1. Clone repo**
 ```bash
-git clone https://github.com/username/aerosense.git
+git clone https://github.com/faeezzy/PredictiveAnalyst.git
 cd aerosense
 ```
 
@@ -149,7 +149,7 @@ XGBoost dipilih karena menggunakan pendekatan **boosting** — setiap pohon kepu
 
 ## 👤 Author
 
-**Fi** — Data Science Student, Telkom University  
+**Fai** — Data Science Student, Telkom University  
 *Background: Data Science & Embedded Systems/Electronics*
 
 ---
